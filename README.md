@@ -2,7 +2,7 @@
 System design - Knowledge base
 
 
-##Key topics for designing a system
+## Key topics for designing a system
 1. Concurrency
 2. Networking
 3. Abstraction
